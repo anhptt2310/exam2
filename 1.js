@@ -23,7 +23,7 @@ $(document).ready(function(){
 		}
 		var newColor = ColorLuminance(oldColor, -0.1);
 		oldColor = newColor;
-		if(count<9){
+		if(count<8){
 			count++;
 			$(this).css("background-color" , newColor);
 		}
