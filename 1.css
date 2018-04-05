@@ -60,7 +60,7 @@ html,body{
 .circle {
     width: 90px;
     height: 90px;
-    top: 4%;
+    top: 3%;
 }
 
 .item1{
@@ -88,7 +88,7 @@ html,body{
 
 
 .wrapper{
-	margin-top: 20%;
+	margin-top: 16%;
 	grid-gap: 10px;
 }
 
